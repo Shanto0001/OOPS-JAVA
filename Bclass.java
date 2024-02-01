@@ -1,5 +1,10 @@
 /**
- * Bclass
+ * Talking about
+ * oops{ 
+ * Class (Class are blue print to caracterize the objects)
+ * Object
+ * }
+ 
  */
 public class Bclass {
 
@@ -11,7 +16,10 @@ public class Bclass {
     }
 
     public static void main(String[] args) {
-        student Shanto = new student(); // from class we make the 1st student name //
+
+        //Shanto And Shyam is a object
+
+        student Shanto = new student(); // from class we make the 1st student name 
         // giving detail about student
 
         Shanto.name = "SHANTO THOMAS";
