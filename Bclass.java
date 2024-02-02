@@ -28,14 +28,14 @@ public class Bclass {
         Shanto.percentage = 98;
 
         System.out.println(
-                Shanto.name + (" ") + Shanto.classNo + (" ") + Shanto.rollno + (" ") + Shanto.percentage + (" "));
+                Shanto.name +   Shanto.classNo + (" ") + Shanto.rollno + (" ") + Shanto.percentage + (" "));
 
         student Shyam = new student();
         Shyam.name = "Shyam Kaushik";
         Shyam.classNo = "606-A";
         Shyam.rollno = 1406;
         Shyam.percentage = 98;
-        System.out.println(
+        System.out.println( 
                 Shyam.name + (" ") + Shyam.classNo + (" ") + Shyam.rollno + (" ") + Shyam.percentage + (" "));
 
     }
